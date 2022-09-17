@@ -1,0 +1,269 @@
+NECK
+4-Way Neck
+Neck PushUp
+Manual Neck
+
+CHEST
+Bench Press
+Bench Press (eccentric phase)
+Bench Press Rebound
+EDI Bench Press
+Dumbbell Bench Press
+Decline Bench Press
+EDI Decline Bench Press
+Dumbbell Decline Bench Press
+Incline Bench Press
+EDI Incline Bench Press
+Dumbbell Incline Bench Press
+Rebound PushUp Iso
+Chest Fly
+Incline Chest Fly
+Decline Chest Fly
+PushUp
+Moon PushUp
+In/Out PushUp
+Rebound PushUp
+Incline PushUp
+Decline PushUp
+Wide-Grip PushUp
+Ball PushUp
+Chest Press
+Chest Press Rebound
+Alternating Dumbbell Press
+
+SHOULDERS
+Military Press
+EDI Military Press
+Dumbbell Military Press
+Behind-Neck Press
+Push Press
+Rainbow
+Lateral Raise
+Leaning Lateral Raise
+Bent-Over Lateral Raise
+Internal Rotator Cuff
+External Rotator Cuff
+Front Raise
+Plate Toss
+Plate Front Raise Rebound
+Dumbbell Front Raise Rebound
+Bent-Over Front Raise Rebound
+Bent-Over Lateral Raise Rebound
+Upward Rotation
+Pull-Over
+Prone Horizontal Abduction
+Barbell Shoulder Shrug
+Dumbbell Shoulder Shrug
+Cable Shoulder Shrug
+Upright Row
+Cable Upright Row
+Arnold Press
+Shoulder Press
+Jammer
+Clean Pull
+Split Jerk
+Jerk
+Power Clean
+
+TRICEPS
+Tricep Kickback
+Barbell Tricep Extension
+Dumbbell Tricep Extension
+EDI Barbell Extension
+Tricep Underhand Pressdown
+Tricep Overhand Pressdown
+Close-Grip Bench Press
+EDI Close-Grip Bench Press
+Reverse Grip Bench Press
+Dip
+Reverse Dip
+Decline Curl
+Press/Tricep Extension
+One-Arm Dumbbell French Press
+Dumbbell French Press
+Barbell French Press
+Triangle PushUp
+Pressure Curl (BOTH)
+
+BICEPS
+Barbell Curl
+Barbell Curl Rebound
+Dumbbell Curl
+Top-Half Barbell Curl
+Bottom-Half Barbell Curl
+Bottom/Top Combination Barbell Curl
+EDI Preacher Curl
+Preacher Curl
+One-Arm Preacher Curl
+Hammer Curl
+Rack
+Concentration Curl
+Bicep Cable Pulldown
+Incline Dumbbell Curl
+Reverse Barbell Curl
+Reverse Dumbbell Curl
+Preacher Hold
+Pressure Curl (BOTH)
+
+FOREARMS
+Forearm Dumbbell Curl
+Forearm Barbell Curl
+Behind-Back Barbell Curl
+Forearm Dumbbell Extension
+Forearm Barbell Extension
+Plate Finger Raise
+Dumbbell Wrist Raise
+EDI Forearm Curl
+EDI Forearm Extension
+
+BACK
+Back Extension
+Good Morning
+Rumanian Deadlift
+Straight-Leg Deadlift
+T-Bar Row
+Bent-Over Barbell Row
+Bent-Over Dumbbell Row
+One-Arm Dumbbell Row
+Wide-Grip Pulldown
+Reverse-Grip Pulldown
+Close-Grip Pulldown
+Behind-Neck Pulldown
+Straight-Grip Lat Pulldown
+Reverse-Grip Lat Pulldown
+Lat Row
+Pull-Up
+Wide-Grip Pull-Up
+Behind-Neck Pull-Up
+Close-Grip Pull-Up
+
+ABS
+SitUp
+Crunch
+Jackknife
+Ab Machine
+Frog-Leg Crunch
+Tuck Crunch
+Double-Leg Lift
+Single-Leg Lift
+Raised-Leg Crunch
+Reverse Trunk Twist
+Hip Thrust
+Reverse Crunch
+Ab Wheel
+Side Crunch
+Russian Twist
+Hanging Leg Raise
+Hanging Crossover Raise
+Hanging Single-Leg Raise
+Hip Twist
+Pausing Crunch
+Nasty Ab
+Superman
+Side Hold
+Flutter Kick
+Crossover Kick
+Leg Hold
+Ball Crunch
+Decline Crunch
+Cable Crunch
+Cable Oblique Crunch
+Cable Side Crunch
+PushUp Hold
+Twisting SitUp
+Flat Crunch
+Toe Touch
+Straight-Leg Crunch
+Pump SitUp
+Crossover Crunch
+Oblique Crunch
+Football Catch-and-Balance
+Dumbbell Side Bend
+Vacuum
+Oblique Twist
+Seated Reverse Crunch
+V-Hold
+Dip Bar Leg Raise
+Single Knee-In
+Double Knee-In
+V-Spread Toe Touches
+
+LEGS (Weighted)
+Back Squat
+EDI Back Squat
+Front Squat
+Box Squat
+Hack Squat
+Jump Squat
+Sumo Squat
+One-Arm Overhead Dumbbell Squat
+Narrow Dumbbell Squat
+Leg Press
+Leg Press Rebound
+Unilateral Leg Press
+Leg Curl
+EDI Leg Curl
+Unilateral Leg Curl
+Leg Extension
+EDI Leg Extension
+Unilateral Leg Extension
+Dumbbell Lunge
+Barbell Lunge
+Dumbbell Reverse Lunge
+Barbell Reverse Lunge
+Dumbbell Walking Lunge
+Barbell Walking Lunge
+Barbell Lunge - 3 Pump
+Dumbbell Lunge - 3 Pump
+Barbell Side Lunge
+Dumbbell Side Lunge
+Barbell Walking Side Lunge
+Dumbbell Walking Side Lunge
+Glute/Ham Raise
+Step-Up
+Hip Abduction (Bowflex)
+Hip Adduction (Bowflex)
+Hip Flexion (Bowflex)
+Straight-Leg Kickback (Boxflex)
+Internal Ankle Rotation (Bowflex)
+External Ankle Rotation (Bowflex)
+
+LEGS (Non-Weighted)
+Step-Up
+Single-Leg Pelvic Lift
+Pogo
+Ankle Hop
+Split Jump
+Squat Jump
+Depth Jump
+Box Jump
+Altitude Drop
+One-Leg Wall Sit
+Wall Sit
+One-Leg Squat
+One-Leg Jump
+One-Leg Dead Squat
+One-Leg Squat Iso
+Low Squat Foot Jump
+Low Squat Vertical Jump
+Low Squat Foot Jump/ Speed Russian Lunge
+Russian Lunge
+Lunge
+Reverse Lunge
+Side Lunge
+Side Walking Lunge
+Walking Lunge
+Lunge - 3 Pump
+Glute/Ham Raise
+
+CALVES
+Standing Calf Raise
+Single-Leg Standing Calf Raise
+Leg Press Calf Raise
+Leg Press Calf Variations
+Unilateral Leg Press Calf Raise
+Barbell Calf Raise
+Dumbbell Calf Raise
+Seated Calf Raise
+Leg Press Calf Hold
+EDI Standing Calf Raise
